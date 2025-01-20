@@ -1,8 +1,25 @@
-# React + Vite
+Furniture Store 🛋️
+A modern furniture store built with React, Vite, and Tailwind CSS. This project includes a sleek user interface for browsing furniture and a fully functional checkout section.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🛠️ Features
+Browse a catalog of furniture with intuitive filtering.
+Responsive design powered by Tailwind CSS.
+Lightning-fast performance with Vite.
+Integrated checkout workflow for a seamless shopping experience.
 
-Currently, two official plugins are available:
+🚀 Tech Stack
+Frontend: React, Vite
+Styling: Tailwind CSS
+Routing: React Router
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Install dependencies:
+npm install
+
+Start the development server:
+npm run dev
+
+🛒 Checkout Section
+The checkout process includes:
+    1.Adding products to the cart.
+    2.Viewing cart details.
+    3.Add or remove products
